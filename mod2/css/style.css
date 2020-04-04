@@ -40,7 +40,7 @@ section {
 }
 
 #chicken {
-  border: 1px soild black;
+  border: 1px black;
   color: #303028;
   text-align: center;
   width: 30%;
@@ -55,7 +55,7 @@ section {
 }
 
 #beef {
-  border: 1px soild black;
+  border: 1px black;
   text-align: center;
   width: 30%;
   margin-left: 70%;
