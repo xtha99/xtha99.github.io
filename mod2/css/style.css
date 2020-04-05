@@ -55,7 +55,7 @@ section {
 }
 
 #beef {
-  border: 1px black;
+  border: double;
   text-align: center;
   width: 30%;
   margin-left: 70%;
@@ -70,7 +70,7 @@ section {
 
 #sushi {
   text-align: center;
-
+border: double;
   margin-left: 70%;
   font-family: Georgia, sans-serif;
   font-weight: bold;
