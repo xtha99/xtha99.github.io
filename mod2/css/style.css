@@ -30,7 +30,7 @@ p {
 section {
   border: 1px #d4866a;
   background-color: #d4a86a;
-  width: 100%;
+  width: 80%;
   height: 200px;
   font-family: Times;
   color: black;
@@ -158,7 +158,7 @@ section {
   .col-md-12;
 }
  {
-  float: center;
+  float: left;
 }
 
 .col-md-1 {
