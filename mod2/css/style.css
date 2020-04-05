@@ -28,7 +28,7 @@ p {
 }
 
 section {
-  border: 1px #d4866a;
+  border: double;
   background-color: #d4a86a;
   width: 80%;
   height: 200px;
@@ -40,7 +40,7 @@ section {
 }
 
 #chicken {
-  border: 1px black;
+  border: double;
   color: #303028;
   text-align: center;
   width: 30%;
@@ -106,25 +106,25 @@ section {
     width: 33.33%;
   }
   .col-lg-5 {
-    width: 41.66%;
+    width: 40.66%;
   }
   .col-lg-6 {
-    width: 50%;
+    width: 40%;
   }
   .col-lg-7 {
-    width: 58.33%;
+    width: 43.33%;
   }
   .col-lg-8 {
-    width: 66.66%;
+    width: 45.66%;
   }
   .col-lg-9 {
-    width: 74.99%;
+    width: 50.99%;
   }
   .col-lg-10 {
-    width: 83.33%;
+    width: 60.33%;
   }
   .col-lg-11 {
-    width: 91.66%;
+    width: 70.66%;
   }
   .col-lg-12 {
     width: 100%;
