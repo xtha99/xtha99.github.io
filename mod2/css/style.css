@@ -42,12 +42,12 @@ section {
 #chicken {
   border: double;
   color: #303028;
-  text-align: left;
+  text-align: center;
   width: 30%;
   margin-left: 60%;
   font-family: Georgia, sans-serif;
   font-weight: bold;
-  font-size: 90%;
+  font-size: 110%;
   margin-bottom: 0;
   margin-top: 0;
   padding: 5px;
@@ -70,7 +70,7 @@ section {
 
 #sushi {
   text-align: center;
-border: double;
+  border: double;
   margin-left: 70%;
   font-family: Georgia, sans-serif;
   font-weight: bold;
